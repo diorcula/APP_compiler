@@ -1,3 +1,6 @@
+# TODO
+- download project
+
 # Readme for ICSSTool
 This file contains notes and issues for the ICSSTool.
 For assignment instructions, see [ASSIGNMENT.md](ASSIGNMENT.md)
